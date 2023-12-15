@@ -20,6 +20,9 @@
   "bugs": {
     "url": "https://github.com/Bunland/lauri/issues"
   },
+  "engines": {
+    "bun": "^1.0.3"
+  },
   "homepage": "https://github.com/Bunland/lauri#readme",
   "dependencies": {
     "@bunland/fs": "github:Bunland/fs",
