@@ -37,7 +37,7 @@
 
 ## Documentation / Usage Example
 ```js
-import {serve, get, post, response} from 'bunzer'
+import {serve, get, post, response} from 'lauri'
 
 get('/hello',       req => 'Hello, World!')
 get('/json',        req => ({hello: 'world'}))
